@@ -1,0 +1,114 @@
+html {
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1;
+    font-family: Helvetica Neue;
+    padding: 20px 20px 20px 20px;
+}
+
+/* still having trouble with the borders at the top. I tried adding my background to h1 and tinkering that way but it wouldn't give me the outcome. I'm going to keep playing with it, but don't want to miss my submission deadline! */
+
+
+header {
+    background-color: steelblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 10rem;
+    padding: 20px;
+    text-shadow: 1px 1px hsla(360, 100%, 100%, 1);
+    background: url(stockholm_background.jpg);
+    height: 400px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Helvetica Neue;
+    line-height: 1;
+    color: hsla(209, 38%, 19%, 1);
+    text-shadow: 2px 2px hsla(360, 100%, 100%, 1);
+    height: 00px;
+}
+
+h2 {
+    font-size: 3rem;
+    font-family: Helvetica Neue;
+    line-height: 1;
+    padding: 0px;
+    color: hsla(214, 38%, 69%, 1)
+}
+
+h3 {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: Helvetica Neue;
+    line-height: 2;
+    word-wrap: break-word;
+    color: hsla(215, 47%, 74%, 1);
+    text-shadow: 2px 2px hsla(209, 38%, 19%, 1);
+    padding: 70px 0px 0px 0px;
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-family: Helvetica Neue;
+    line-height: 1;
+    color: hsla(214, 38›%, 69%, 1)
+}
+
+nav {
+    font-size: 25px;
+    word-spacing: 10px;
+    color: hsla(360, 100%, 100%, 1);
+    font-family: Helvetica Neue;
+    padding: 5px;
+    text-shadow: none;
+}
+
+p {
+    font-size: 1rem;
+    color: hsla(360, 100%, 0%, 1);
+    font-family: Helvetica Neue;
+    padding: 0px 0px 0px;
+}
+
+main {
+    font-size: 1rem;
+    font-family: Helvetica Neue;
+    line-height: 1.5;
+    color: hsla(215, 47%, 74%, 1);
+    padding: 20px;
+}
+
+ul {
+    font-size: 1rem;
+    color: hsla(360, 100%, 0%, 1);
+    font-family: Helvetica Neue;
+    padding: 0px 20px 0px;
+}
+
+
+
+
+/*
+
+HTML Layout with CSS - build a webpage with both HTML and CSS to replicate a PDF
+
+HTML plus CSS PDF
+
+Background image to be selected from Picsum Pick your own image to use as the background. The image should NOT tile, it should fill the space.
+
+All colours on the page are to be created using the CSS hsl( ) method and should use the same hue value. You can pick the hue that you want to use.
+
+Make sure that you are using nav, header, and main elements to break up the page into semantic areas.
+
+Alignment of ALL the elements along the left edge is very important.
+
+Match the font-sizes as closely as possible.
+
+Make sure that there is appropriate amounts of padding around any text.
+
+*/
+
+/* border-top: 20px solid hsla(193, 100%, 45%, 1) border-bottom: 10px dashed hsla(193, 100%, 45%, 1);*/
